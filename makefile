@@ -1,4 +1,5 @@
 all: build
 
 build:
-	pandoc -o public/index.html --template=template.html index.md
+	pandoc -o index.html -s --template=template.html index.md
+	mv index.html public/index.html
