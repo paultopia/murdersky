@@ -4,7 +4,7 @@ subtitle: A Californian's Guide to Surviving Midwestern Weather
 ---
 
 
-Written while shivering by [Paul Gowder](https://gowder.io).
+Written while shivering by [Paul Gowder](https://gowder.io). Mostly derived from experiences from 8 years in Iowa, and slowly being updated to cover Chicago as well.  
 
 <div id="openweathermap-widget-21"></div>
 <script src='//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/d3.min.js'></script><script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 21,cityid: '4887398',appid: '05b51896060a477dd9dbdc71bfe361b0',units: 'imperial',containerid: 'openweathermap-widget-21',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
@@ -47,11 +47,10 @@ temperature-appropriate kind of precipitation could happen that day
 (snow, rain, freezing rain, etc.).
 
 Also, it is imperative to subscribe to a weather alert service that
-sends text messages when, e.g., a blizzard or a patch of sub-sub-sub
-freezing wind is rolling in (these can come out of nowhere). I subscribe
+sends text messages or push notifications or the like when, e.g., a blizzard or a patch of sub-sub-sub
+freezing wind is rolling in (these can come out of nowhere). I used to subscribe
 to the weather alerts offered by
-[“Accuweather”](https://alert.accuweather.com/accualert/), but there are
-others as well.
+[“Accuweather”](https://alert.accuweather.com/accualert/), but then I realized that their *unsubscribe* page doesn't work, so I couldn't get off it when I moved from Iowa City to Chicago, and ended up having to block their numbers and e-mails.  Now I just use the [Carrot Weather](https://www.meetcarrot.com/weather/) app's push notifications, and also pay their ridiculous subscription prices in order to have maximum weather data and customizable notifications and weather maps on my watch (!!) and all the rest.  This sort of stuff is necessary when you live in the Midwest, trust me.  
 
 These weather alerts will be infuriating. They send exactly the same
 alert for “hey, it’s going to be a little bit foggy this morning, but
@@ -75,6 +74,8 @@ of thumb: United is always delayed, Delta is always overbooked, American
 is about half one and half the other. And everything goes wrong in the
 winter on every airline.)
 
+This is especially going to be a problem if you live in a small city, like most college towns.  When I was in Iowa City, I got stranded *constantly*, because everything goes through a connection, there are basically no direct flights anywhere except to a handful of major hubs: mostly O'Hare for points east and Denver for points west, though you can also get Detroit, Minneapolis, Dallas/Forth-Worth, and Charlotte. That's probably true for most small airports in the Midwest. 
+
 If you are flying, and you get stranded at O’Hare, the airport Hilton is
 very expensive (\$200+/night) and fills up fast, but it has the distinct
 advantage of actually being physically attached to the airport, so you
@@ -90,7 +91,7 @@ typing in your credit card number.
 
 ## Walking: Don’t Break Your Neck or Get Hit by a Car
 
-Sidewalks will be covered with ice for months on end. It’s very hard to
+Sidewalks may, depending on how good your city is at clearing them, be covered with ice for months on end. It’s very hard to
 walk on them, and you’ll need to walk very slowly. If you fall (and you
 will), try to land directly on your rear-end, rather than catching
 yourself with your hands (and possibly breaking wrists), back-flopping,
@@ -116,9 +117,8 @@ this](https://www.amazon.com/gp/product/B000NHW2Z6/).
 
 You need to make sure you know whether you or your landlord is
 responsible for snow removal. Even if your landlord takes responsibility
-for this, unless you live right on the ped mall or somewhere else where
-the city frequently keeps things clear, you’ll probably want to invest
-in a good sturdy shovel in order to establish access to your home before
+for this, landlords may not be terribly prompt, so you may still want to invest
+in a good sturdy shovel in order to establish access to your home (especially driveways) before
 the landlord gets around to it. Also, you’ll want to invest in some kind
 of salt or a more pet-safe equivalent to melt ice. I use [this
 stuff](https://www.amazon.com/Safe-Paw-Non-Toxic-Melter-lbs/dp/B0002IJXDA/).
@@ -178,12 +178,14 @@ Many manufacturers put acrylic in cheap knitwear. *Do not buy this
 garbage.* Some people have wool allergies. If that’s you, poly fleece is
 still better than acrylic for most things. Acrylic is horrible.
 
+The other main problem with woolen-type things is static electricity. I can't help you there, I've never managed to figure out how to not shock myself whenever I do something simple like touch the fridge. I've also never taken a physics class, which doesn't help.  Engineers, some help here?
+
 ### Jackets
 
 This is the most important piece. You need a heavy down-lined jacket
 with a hood. These are expensive, but worth every penny.
 
-I own two L.L. Bean jackets. The first, which seems to not currently be
+L.L. Bean jackets is a pretty good option, they tend to make very warm coats for a reasonable price. I've owned two at various points, the first, which seems to not currently be
 on sale except in inferior versions, is the
 [Windstopper](http://www.slate.com/articles/life/fashion/2014/01/l_l_bean_windstopper_the_winter_coat_you_need_to_survive_an_ungodly_cold.html),
 stuffed with 700-fill goose down. The second, which is still on sale, is
@@ -203,6 +205,8 @@ supposed to be excellent, but their prices tend to climb up to the
 some random website claiming to be an outlet and offering Canada Goose
 at like half price, it’s almost certainly counterfeit.
 
+Also, Canada Goose is famously overpriced and fashionable these days.  Last winter, I decided to upgrade to an even-warmer jacket with real fur and such, so I went to the Canada Goose store in Boston.  They had---I kid you not---a *velvet rope* outside the door and forced people to wait in line to go inside (the store wasn't at capacity, and this was pre-COVID; they were just being pretentious).  Needless to say, I said "hell no" and went to Woolrich instead.  It turns out that was actually a really good idea, and I ended up snagging a just-as-good-as-Canada-Goose jacket for a little bit cheaper---basically [this jacket](https://www.woolrich.com/arctic-parka-with-detachable-fur-wo0103/) but in Gore-Tex.
+
 I’m not terribly convinced by companies like North Face, Patagonia,
 etc., but your mileage may vary. For light second layers/outer layers
 when it’s only moderately cold (high 20’s, low 30’s), the very
@@ -210,7 +214,7 @@ thin/light down jackets (sometimes called “down sweaters”) from these
 companies are expensive but nice. I have and quite like a Mountain
 Hardwear “[ghost
 whisperer](https://www.mountainhardwear.com/mens-ghost-whisperer-down-jacket-1560901.html)”
-jacket along those lines.
+jacket along those lines. (Don't get the hooded version, though.  I have one of those too, which seems like a good idea, except there's no drawstring to keep the hood tight. So a slight breeze will just blow it down.)
 
 A wise geology friend and walking commuter adds that if you get a
 "technical" coat ("Technical" is, as far as I can tell, Expensive Jacket
@@ -300,7 +304,7 @@ And
 [these](http://www.overland.com/products/mens-dents-dunmore-cashmere-lined-deerskin-leather-and-twee-74512.aspx)
 are my usual (light) gloves (not appropriate for spending more than a
 couple minutes outside in winter temperatures, mostly used to get from
-the parking lot to a building/while driving).
+the parking lot to a building/while driving).  (Overland is one of my favorite winter stuff companies. They have a retail store in Chicago.)
 
 I also typically keep some cheap-o fabric gloves in every jacket pocket,
 the car, my bag, etc., because it can be really unpleasant to be caught
@@ -408,24 +412,14 @@ imagine, and then double it.
 Let’s put it this way: the first time I drove in snow, I hit a tree
 within five minutes.
 
-You can very easily skid and lose control when you:
-
--   brake
-
--   accelerate
-
--   turn
-
-Do all of those things very, very, very gradually. Leave tons of extra
+You can very easily skid and lose control when you brake, accelerate, or turn. Do all of those things very, very, very gradually. Leave tons of extra
 stopping distance.
 
 You should *definitely* not change speeds and turn at the same time.
 Slow down, THEN turn, THEN speed up again. Or else you’ll instantly fly
 out of control.
 
-Winter tires may be useful, if you can find a storage solution. (I
-believe Iowa law only allows them November through April, but you should
-double-check that.)
+Winter tires may be useful, if you can find a storage solution. (The law where you are might not allow them, or might only allow them in specific months of the year, so you should look into that.)
 
 There’s a thing called “black ice.” That’s cold-place-ese for “ice you
 can’t see.” It’s real. So when driving, even if a patch of road looks
@@ -436,10 +430,10 @@ out there, so I’m not going to try to give recommendations.
 
 Please don’t try to use a rear wheel drive car.
 
-People drive like idiots around here. When it’s dry and sunny, they
+People drive like idiots in parts of the Midwest, especially, for some reason, Iowa. When it’s dry and sunny, they
 drive about 20 mph slower than they ought; when it’s raining or snowing
 they drive about 20mph faster than they ought. That’s why you’ll see
-countless cars in the ditch on the 380 freeway to the airport in the
+countless cars in the ditch on every freeway in Iowa in the
 winter. Don’t let that be you. Just let the testosterone-mad pickup
 truck morons pass.
 
@@ -463,17 +457,7 @@ Also, keep a kit in your car that consists, at a minimum, of:
 Those are sold at truck stops and the like.
 
 If you go out of town, you should also keep emergency survival supplies
-in your car to survive long enough for rescue to arrive. These include:
-
--   blankets
-
--   chemical hand warmers
-
--   food
-
--   water
-
--   plus maybe flares, etc
+in your car to survive long enough for rescue to arrive. These include blankets, chemical hand warmers, food, water, and maybe flares, etc.
 
 Fuel lines can freeze; keep the tank about half full at all times in the
 winter.
@@ -531,11 +515,9 @@ process and trying to vacuum it off.)
 > vehicle. They are treacherous.
 
 (Editorial note: also, if you park a bike outside, bring it inside at
-the first sight of snow, especially if it’s in a city bike rack. Whether
-out of incompetence or malice, the City of Iowa City really loves to
-pile snow on top of those bike ranks. Once, my wife had her bike stuck
-in a gigantic block of ice/snow all winter, thanks to our kind municipal
-government. That, needless to say, was not a cheap repair when it
+the first sight of snow, especially if it’s in a city bike rack. Once, my wife had her bike stuck
+in a gigantic block of ice/snow all winter, thanks to Iowa City's malicious municipal
+government deciding to plow a pile of snow *directly on top of it*. That, needless to say, was not a cheap repair when it
 melted.)
 
 ## Money Matters
@@ -568,15 +550,7 @@ some grad student budget suggestions, which I reproduce here:
 > (\$20/night), but you’re closest bet to the airport is IHSP in Wicker
 > Park.
 
-> Also, it will always be cheaper to fly into Chicago and Megabus to
-> Iowa City, which is often more reliable than the airlines in the
-> winter. Maybe plan on staying an extra night in Chicago and picking up
-> some winter clothes while you’re there?
 
-(Editorial note: Megabus no longer runs to Iowa City, so that advice is
-out. There are other bus companies, but the bus stations in Chicago tend
-to be urine-soaked dens of crime and misery, so I don’t really recommend
-it.)
 
 My Canadian friend adds, regarding the cost of winter coats:
 
@@ -618,39 +592,11 @@ And Iowan friend:
 
 # Surving Spring
 
-Fluctuating wildly between freezing and storming. If you hear a really loud “boom” it’s a thunderstorm, not a terrorist attack (probably). It can go from dry and sunny to 5 inches of water  on the ground in about 10 minutes; in that same period it can also
-    start dropping golfball style hail. I once got caught out in the
-    middle of nowhere on the freeway in one of those, and am alive today
-    mainly because my windshield held. People tend to hide under freeway
-    underpasses in this kind of situation, even though there are
-    persistent rumors that tornadoes will suck you out from under them
-    and slaughter you. Oh, speaking of tornadoes: if you hear a siren
-    that’s *even louder* than the one in the power plant across from the
-    law building, that’s a tornado siren. It means there’s a tornado and
-    you should go hide in the basement. Or it means there’s a tornado
-    like 3 towns over, and you’re perfectly safe. On our continuing
-    theme of municipal incompetence/malice, the city isn’t very
-    intelligent about distinguishing between “siren for tornado that
-    might actually hurt you so go hide” and “siren for tornado that
-    looked pretty from the telescope we were viewing it with, go about
-    your business.” So it really isn’t useful at all. Seasoned
-    midwesterners basically say “go hide in the basement if the sky
-    turns green.” (I’m serious, it turns green.) Also, the city tests
-    the tornado siren on Wednesday morning at 10 am. If a tornado ever
-    hits Iowa City on Wednesday morning at 10 am everyone will die, but
-    maybe the new residents, after they finish clearing the rubble, will
-    elect a smarter city government.
--   **Summer**: 90 degrees+, 100% humidity, more thunderstorms. Oh, and
-    Iowa City gets infested with millions of tiny gnats every summer.
-    They like to go for the eyes. Whenever I walk through town in the
-    summer I wear a net over my face. Why are you here during the summer
-    anyway? Go somewhere where the sky isn’t trying to kill you.
--   **Fall**: sort of like a hybrid of summer and spring. Fluctuates
-    between 20 degrees and 80 degrees, sometimes in the same day.
-    More thunderstorms. Gnats get replaced with mosquitos. However, fall
-    is the only season where there are occasional nice days. Invite your
-    loved ones to come visit in early October, so that they feel OK
-    about your fate.
+Fluctuating wildly between freezing and storming. If you hear a really loud “boom” it’s a thunderstorm, not a terrorist attack (probably). It can go from dry and sunny to 5 inches of water  on the ground in about 10 minutes; in that same period it can also start dropping golfball style hail. I once got caught out in the middle of nowhere on the freeway in one of those, and am alive today mainly because my windshield held. People tend to hide under freeway underpasses in this kind of situation, even though there are
+persistent rumors that tornadoes will suck you out from under them
+and slaughter you. 
+
+
 
 ----
 
