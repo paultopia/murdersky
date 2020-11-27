@@ -1,15 +1,14 @@
 ---
 title: The Sky Wants to Murder You
-subtitle: A Californian's Guide to Surviving Iowa Winters
+subtitle: A Californian's Guide to Surviving Midwestern Weather
 ---
 
 
 Written while shivering by [Paul Gowder](https://gowder.io).
 
-It Gets Cold Here
-=================
+# Surviving Winter 
 
-I’m from Los Angeles. When I got here back in 2012, I was laughably
+I’m from Los Angeles. When I first moved to the Midwest back in 2012, I was laughably
 unprepared for the cold. Don’t be like me. (And don’t let fall fool you,
 when the temperature does go south, it’ll go south hard and fast.)
 
@@ -32,13 +31,9 @@ kind of made-up “feels like” number, but where that number apparently
 matters for things like losing bits of your body to frostbite (that
 would be bad), and possibly also dying of hypothermia. And also just how
 bloody horrible it is to be outdoors. During the “polar vortex” winter,
-windchill around here got down to the -50 range.
+windchill got down to the -50 range.
 
-Basic Survival
-==============
-
-Weather Forecasts are Nonsense
-------------------------------
+## Weather Forecasts are Nonsense
 
 The weather forecasts tend to be hilariously inaccurate at anything
 further than ten minutes into the future. You cannot expect the forecast
@@ -66,8 +61,7 @@ Apparently their parents never read them the story of the boy who cried
 wolf. Nonetheless, the alerts are also a good way to learn about
 impending sky-assassination attempts, so read them anyway.
 
-Traveling is Hard
------------------
+## Traveling is Hard
 
 Do not expect plans to be reliable. Travel out of town may become
 impossible on short notice: the roads may be impassible, and the
@@ -91,8 +85,7 @@ uncommon during big Midwest weather airport strandings to be in the
 middle of booking a hotel on hoteltonight and have it sell out as you’re
 typing in your credit card number.
 
-Walking: Don’t Break Your Neck or Get Hit by a Car
---------------------------------------------------
+## Walking: Don’t Break Your Neck or Get Hit by a Car
 
 Sidewalks will be covered with ice for months on end. It’s very hard to
 walk on them, and you’ll need to walk very slowly. If you fall (and you
@@ -110,8 +103,7 @@ don’t stop for pedestrians, and slick roads that make braking difficult
 Leave lots of time to walk anywhere, and don’t expect drivers to be
 either willing or able to stop for you.
 
-Housing: Winter Screws That Up Too
-----------------------------------
+## Housing: Winter Screws That Up Too
 
 Heating bills will be very high. Plan for, depending on the size of your
 house, up to a couple hundred dollars a month for heating. You can
@@ -128,8 +120,7 @@ the landlord gets around to it. Also, you’ll want to invest in some kind
 of salt or a more pet-safe equivalent to melt ice. I use [this
 stuff](https://www.amazon.com/Safe-Paw-Non-Toxic-Melter-lbs/dp/B0002IJXDA/).
 
-Stay Sane
----------
+## Stay Sane
 
 Psychological well-being is also important; being trapped indoors in the
 cold and dark all the time can get incredibly depressing. A Minnesotan
@@ -137,13 +128,11 @@ friend: "Walk outside every day no matter how cold it is. Supplement
 with Vitamin D. Plan a sunny vacation if you can. Consider a light box."
 I do not endorse the “walk outside” part.
 
-Clothing
-========
+## Clothing
 
 Here are some principles to guide your choice of clothing:
 
-Wear Layers
------------
+### Wear Layers
 
 The temperature can vary widely in a day, and it will also vary widely
 between indoors and outdoors. Imagine walking into a building heated to
@@ -154,8 +143,7 @@ quickly.
 It can be helpful to keep an extra bag to conveniently carry winter
 clothing while indoors.
 
-Natural Fabrics (Mostly) Beat Artificial Fabrics
-------------------------------------------------
+### Natural Fabrics (Mostly) Beat Artificial Fabrics
 
 Evolution has had a really long time to devise solutions for extreme
 temperatures. The only artificial fabrics I’ll wear in the winter are
@@ -166,7 +154,7 @@ occasionally a layer of polyester fleece.
 Wool is your friend. Alpaca is *really* your friend (though it can be a
 bit itchy, it’s incredibly warm). Down is your very best friend. Fur is
 your friend, though it can be expensive and animal rights types won’t be
-happy.[^1^](#fn1){#fnref1 .footnote-ref}
+happy.^[Much like there are no atheists in foxholes, there are no PETA members in -20.]  
 
 Cotton is not your friend. If it gets wet, cotton becomes very, very bad
 at holding in heat. It actually draws heat away from your body.
@@ -181,14 +169,13 @@ ordinary sheep/lambswool. Cashmere is much softer and much more
 expensive, but you can sometimes get a bargain, especially at
 consignment stores in big cities. Alpaca is cheaper and warmer than
 cashmere, almost as soft, but, as I said, a bit itchy
-sometimes.[^2^](#fn2){#fnref2 .footnote-ref}
+sometimes.^[If you really have a lot of money, the warmest wool of all is supposed to be qiviut, which comes from the belly fur of an Alaskan musk ox or some other such ridiculous thing. I’ve never tried it, however, as it’s extraordinarily expensive. My best advice for being able to afford it is to play scrabble for money, use the word "qiviut" to crush your opponents, and then use your winnings to buy yourself a lovely scarf.]
 
 Many manufacturers put acrylic in cheap knitwear. *Do not buy this
 garbage.* Some people have wool allergies. If that’s you, poly fleece is
 still better than acrylic for most things. Acrylic is horrible.
 
-Jackets
--------
+### Jackets
 
 This is the most important piece. You need a heavy down-lined jacket
 with a hood. These are expensive, but worth every penny.
@@ -238,8 +225,7 @@ I’ve heard good things about another Canadian company called [Moose
 Knuckles.](http://www.mooseknucklescanada.com/us/) It’s also just an
 amazing name.
 
-Sweaters
---------
+### Sweaters
 
 Here is where the wool and fleece come in (not in your jacket please, it
 won’t be nearly warm enough). Personally, I love alpaca.
@@ -253,8 +239,7 @@ Novica, which tend to be blended with the horror that is acrylic.
 I mostly only use polyester fleece for going to the gym, because it’s a
 bit more durable and much cheaper than the good stuff.
 
-Scarves
--------
+### Scarves
 
 These are also \[sheep\] wool or alpaca. Novica has lots of scarves too,
 but so do many other places that are probably cheaper. There’s also
@@ -266,8 +251,7 @@ example](https://www.amazon.com/Original-Turtle-Fur-Fleece-Heavyweight/dp/B0041V
 (Although maybe not quite that one, because, acrylic. You know how Your
 Advisor feels about acrylic.)
 
-Long Underwear
---------------
+### Long Underwear
 
 A.K.A. undershirts, leggings, “longjohns.” You should get some. They’re
 very cheap on the internet and at places like Target. They’re also
@@ -285,8 +269,7 @@ or jeans. Nylon stockings are useless.”
 I buy most of my winter supplies online, but Fin and Feather, an outdoor
 store down on Highway 6, also seems to have a lot of stuff.
 
-Gloves
-------
+### Gloves
 
 Here is a big utility/warmth tradeoff. Mittens (gloves with one big
 compartment for all your fingers, as opposed to individual fingers) tend
@@ -327,8 +310,7 @@ North Face also has some good ski gloves made of some kind of space
 polyester, which are a bit warmer than day-to-day gloves, but slightly
 more compatible with actually using your hands than mittens.
 
-Hats
-----
+### Hats
 
 Your basic options here are polyester fleece, wool, and fur. I have all
 three, but strongly prefer fur: it’s the warmest and most comfortable.
@@ -339,8 +321,7 @@ one](http://www.overland.com/products/vintage-leather-aviator-hat-with-rabbit-fu
 Earflaps are a must. I typically wear these hats under the hood of my
 Windstopper jacket.
 
-Boots
------
+### Boots
 
 Here, I don’t have great advice: I’ve never found a pair of winter boots
 I’ve been happy with. Right now I wear [these
@@ -360,8 +341,7 @@ and which is comprised of the various friends cited in here also
 suggests Keen Targhee II Mid boots, at least for snow under 6 inches
 (more comes over the top)
 
-Ski Masks and Ski Goggles
--------------------------
+### Ski Masks and Ski Goggles
 
 People make fun of me for wearing these, but I like to keep my lips, my
 nose and my eyeballs. Do what you want. For the purpose of internet
@@ -371,8 +351,7 @@ but is magical, and if I knew what it was called I would totally tell
 you to buy one, but I don’t, so you’ll just have to ask me to show you
 on a cold day.
 
-Ski Pants, Snow Pants, etc.
----------------------------
+### Ski Pants, Snow Pants, etc.
 
 Basically anything with “ski” in the name or “snow” in the name is nice.
 I have [a gigantic pair of snow overall
@@ -382,8 +361,7 @@ super warm and super waterproof (and super cheap). With those and good
 solid boots, I can literally walk straight through a snowbank and not
 notice. And have actually done so.
 
-Some More Brand Names from a Friend
------------------------------------
+### Some More Brand Names from a Friend
 
 I’ve had some other people look at this guide, and they have offered
 suggestions. Here’s one set of clothing recommendations:
@@ -416,11 +394,7 @@ also you’re really buying the brand name there.)
 > and promos. Add the Honey extension to your Chrome browser, as a total
 > aside!
 
-Driving
-=======
-
-Don’t Crash
------------
+## Driving
 
 Driving is extremely dangerous in winter. (But god help you if you try
 and walk long distances. And if you bicycle, can I please have your MP3
@@ -466,8 +440,7 @@ countless cars in the ditch on the 380 freeway to the airport in the
 winter. Don’t let that be you. Just let the testosterone-mad pickup
 truck morons pass.
 
-Don’t Get Stranded and Freeze to Death in Your Car
---------------------------------------------------
+### Don’t Get Stranded and Freeze to Death in Your Car
 
 If you can, get roadside assistance through your insurance company (or
 AAA if you must, but AAA contractors tend to be incredibly unreliable).
@@ -562,8 +535,7 @@ in a gigantic block of ice/snow all winter, thanks to our kind municipal
 government. That, needless to say, was not a cheap repair when it
 melted.)
 
-Money Matters
-=============
+## Money Matters
 
 You’ll notice that many of the suggestions in here are fairly expensive.
 Some of this is the nature of the beast: people who blither on about the
@@ -640,16 +612,10 @@ And Iowan friend:
 > Wigwam socks (make sure they’re wool or wool/poly blend) are cheap and
 > very good and durable.
 
-Postscript: The Other Seasons Suck Too
-======================================
 
-Winter is 5 or 6 months. In the remaining period of time, you have the
-following seasons:
+# Surving Spring
 
--   **Spring**: Fluctuating wildly between freezing and storming. If you
-    hear a really loud “boom” it’s a thunderstorm, not a terrorist
-    attack (probably). It can go from dry and sunny to 5 inches of water
-    on the ground in about 10 minutes; in that same period it can also
+Fluctuating wildly between freezing and storming. If you hear a really loud “boom” it’s a thunderstorm, not a terrorist attack (probably). It can go from dry and sunny to 5 inches of water  on the ground in about 10 minutes; in that same period it can also
     start dropping golfball style hail. I once got caught out in the
     middle of nowhere on the freeway in one of those, and am alive today
     mainly because my windshield held. People tend to hide under freeway
@@ -683,30 +649,7 @@ following seasons:
     loved ones to come visit in early October, so that they feel OK
     about your fate.
 
-</div>
-
-<div class="section container footnotes">
-
-------------------------------------------------------------------------
-
-1.  <div id="fn1">
-
-    </div>
-
-    Much like there are no atheists in foxholes, there are no PETA
-    members in -20.[↩](#fnref1){.footnote-back}
-
-2.  <div id="fn2">
-
-    </div>
-
-    If you really have a lot of money, the warmest wool of all is
-    supposed to be qiviut, which comes from the belly fur of an Alaskan
-    musk ox or some other such ridiculous thing. I’ve never tried it,
-    however, as it’s extraordinarily expensive. My best advice for being
-    able to afford it is to play scrabble for money, use the word
-    "qiviut" to crush your opponents, and then use your winnings to buy
-    yourself a lovely scarf."[↩](#fnref2){.footnote-back}
+----
 
 Have a suggestion? [File an issue on
 Github](https://github.com/paultopia/murdersky)! Sharable under a
@@ -714,4 +657,3 @@ Github](https://github.com/paultopia/murdersky)! Sharable under a
 International
 License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-</div>
