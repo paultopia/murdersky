@@ -590,7 +590,7 @@ And Iowan friend:
 > very good and durable.
 
 
-# Surving Spring
+# Surviving Spring
 
 Fluctuating wildly between freezing and storming. If you hear a really loud “boom” it’s a thunderstorm, not a terrorist attack (probably). It can go from dry and sunny to 5 inches of water  on the ground in about 10 minutes; in that same period it can also start dropping golfball style hail. I once got caught out in the middle of nowhere on the freeway in one of those, and am alive today mainly because my windshield held. People tend to hide under freeway underpasses in this kind of situation, even though there are
 persistent rumors that tornadoes will suck you out from under them
