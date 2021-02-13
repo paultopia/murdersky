@@ -465,6 +465,8 @@ Engine block heaters are supposed to help with this, but not everyone has a setu
 
 This [Chicago tribune (actually some semi-crooked-seeming affiliated syndication agency) article](https://www.chicagotribune.com/consumer-reviews/sns-bestreviews-auto-start-car-cold-weather-20210117-uf6bsn4djjh6defjh4glpbp22u-story.html) has an even more depressing battery take than me. They claim that you have to get the car up to freeway speeds, and to do it as much as once or twice a day when the temperature is around zero---and the cold might still kill your battery.  So basically, if you live in the midwest, I guess budget for buying a new car battery every year? 
 
+Also, advice like "drive every day" is fundamentally bullshit in an environment that also has frequent blizards and/or -25 days. Seriously?  Drive every day, and go to freeway speeds, when there's a blizard on? Why not just openly say that the choice is between your car dying or you dying in a car accident? Maybe that's why everyone in Iowa drives like a homicidal maniac in the winter: they're just following the Chicago Tribune's stupid advice to not have to buy a new battery every week. 
+
 Also: fuel lines can freeze; keep the tank about half full at all times in the
 winter.
 
