@@ -133,7 +133,7 @@ I do not endorse the “walk outside” part.
 
 ## Clothing
 
-Here are some principles to guide your choice of clothing:
+Here are some principles to guide your choice of clothing. Warning: while I recommend specific products here, the winter clothing industry isn't immune from the pathologies of the rest of the fashion industry, or of capitalism more generally. Products get discontinued all the time, or randomly changed; it's almost impossible to identify something that one found in the store on a company's website (and half the time the store product line and the website product line are different).  Almost like they want to confuse people into buying things that don't meet their needs the first time and then having to buy a second thing later, huh? So, buyer beware.
 
 ### Wear Layers
 
@@ -207,14 +207,14 @@ at like half price, it’s almost certainly counterfeit.
 
 Also, Canada Goose is famously overpriced and fashionable these days.  Last winter, I decided to upgrade to an even-warmer jacket with real fur and such, so I went to the Canada Goose store in Boston.  They had---I kid you not---a *velvet rope* outside the door and forced people to wait in line to go inside (the store wasn't at capacity, and this was pre-COVID; they were just being pretentious).  Needless to say, I said "hell no" and went to Woolrich instead.  It turns out that was actually a really good idea, and I ended up snagging a just-as-good-as-Canada-Goose jacket for a little bit cheaper---basically [this jacket](https://www.woolrich.com/arctic-parka-with-detachable-fur-wo0103/) but in Gore-Tex.
 
-I’m not terribly convinced by companies like North Face, Patagonia,
+I’m not terribly convinced by companies like North Face (except for gloves---see below---I've always had good luck with North Face gloves), Patagonia,
 etc., but your mileage may vary. For light second layers/outer layers
 when it’s only moderately cold (high 20’s, low 30’s), the very
 thin/light down jackets (sometimes called “down sweaters”) from these
 companies are expensive but nice. I have and quite like a Mountain
 Hardwear “[ghost
 whisperer](https://www.mountainhardwear.com/mens-ghost-whisperer-down-jacket-1560901.html)”
-jacket along those lines. (Don't get the hooded version, though.  I have one of those too, which seems like a good idea, except there's no drawstring to keep the hood tight. So a slight breeze will just blow it down.)
+jacket along those lines. (Don't get the hooded version, though.  I have one of those too, which seems like a good idea, except there's no drawstring to keep the hood tight. So a slight breeze will just blow it down. Totally damn pointless.)
 
 A wise geology friend and walking commuter adds that if you get a
 "technical" coat ("Technical" is, as far as I can tell, Expensive Jacket
@@ -261,20 +261,24 @@ Advisor feels about acrylic.)
 ### Long Underwear
 
 A.K.A. undershirts, leggings, “longjohns.” You should get some. They’re
-very cheap on the internet and at places like Target. They’re also
-outrageously expensive at Active Endeavors on the ped mall. (Everything
+very cheap on the internet and at places like Target. (Iowa city people: they’re also
+outrageously expensive at Active Endeavors on the ped mall. Everything
 is outrageously expensive at Active Endeavors: don’t go there unless
-you’re rich.) You should also invest in some thick wool socks.
+you’re rich. Fin and Feather, an outdoor
+store down on Highway 6, also seems to have a lot of stuff, but is much cheaper than Active Endeavors.) You should also invest in some thick wool socks.
 
-However, watch out for the cheap stuff here because it might be “thermal
+I've had pretty good luck with "Heattech" from Uniqlo.  It's cheap (and often on sale) but seems effective.
+
+Watch out for cheap long underwear because it might be “thermal
 cotton.” See above for why cotton is a terrible idea. Look for polyester
 or silk.
 
 A Canadian friend adds: “Women: opaque tights are warmer than trousers
 or jeans. Nylon stockings are useless.”
 
-I buy most of my winter supplies online, but Fin and Feather, an outdoor
-store down on Highway 6, also seems to have a lot of stuff.
+There's long underwear for your top half and long underwear for your bottom half. They have different purposes.  For the bottom half, the purpose is to actually keep you warm. This is especially the case for people sized/shaped in the ways typically gendered as male, as it's basically impossible to find a jacket in men's sizes that extends down to your legs. Jeans are insufficient to keep your legs warm in winter temperatures; dress pants are even worse. You need long underwear. (Possible exception: for only moderately-freezing winter temperatures, L.L. Bean flannel-lined jeans are pretty decent.)
+
+For your top half, if you have a decent jacket and a sweater, you won't need long underwear to keep warm. But you will still need it, especially if you're actually moving outdoors.  The reason is that sufficient clothing to keep you from freezing to death when you stand still will also make you sweat like a warthog on cocaine the moment you move, and then you'll end up with your clothes soaked.  (Native midwesterners claim that there's some magical formula of clothing that will prevent this. They are lying.) For example, I have a 25-minute walk from home to the office; there is no clothing that will keep me at a livable temperature for the start of the walk that will not make me feel like I'm in a sauna by the end.  Hence, you buy a long-sleeved undershirt that advertises "moisture wicking."  Somehow, by some bizarre science, this sort of thing, which sounds like advertising bullshit, more or less actually works (or at least the "Heattech" ones I buy seem to work.) to keep you semi-dry. This is especially important if you're wearing a dress shirt and you don't want to look like a mess at your destination (cough cough lawyers).
 
 ### Gloves
 
@@ -288,10 +292,11 @@ In particular, *do not try to use your phone with gloves, even if you
 have alleged “touchscreen gloves.”* First, touchscreen gloves don’t
 work. Worse, gloves compromise your grip a lot more than you’ll think.
 I’ve personally had two iPhones slip out of my hands onto concrete that
-way. The closest Apple Store is in Des Moines, a two-hour drive away. I
-speak from experience here: you do not want to drive two hours in winter
+way. (Iowa city people: your closest Apple Store is in Des Moines, a two-hour drive away. I speak from experience here: you do not want to drive two hours in winter
 to get a several-hundred-dollar screen replacement because you tried to
-look at your texts with gloves on.
+look at your texts with gloves on.)  
+
+I do have a pair of north face gloves similar to [these](https://www.thenorthface.com/shop/mens-apex-etip-glove-nf0a4sgu-c1?variationId=DYZ) which are fine for weather in the 30's and sometimes work for very light touchscreen usage, like one tap, but I wouldn't push it any further.
 
 Typically I carry both medium-weight leather gloves lined with cashmere
 for ordinary days, and shearling-lined mittens for really cold days. A
@@ -306,12 +311,14 @@ are my usual (light) gloves (not appropriate for spending more than a
 couple minutes outside in winter temperatures, mostly used to get from
 the parking lot to a building/while driving).  (Overland is one of my favorite winter stuff companies. They have a retail store in Chicago.)
 
+One very good compromise between hand warmth and being able to actually use one's hands are heavy duty [Rab gloves](https://rab.equipment/us/accessories-equipment/gloves).  A pair of the heaviest-duty Rab gloves I could find in the store has become my day-to-day winter glove except on the coldest days. They seem to market for mountain climbers, which is a pretty good proxy for needing to be able to use your hands but also needing to keep your fingers. But as usual, all the marketing bullshit makes it impossible to compare gloves online and tell which is warmest, so you should probably find an outdoors store and test them out if you want to follow my example here.
+
 I also typically keep some cheap-o fabric gloves in every jacket pocket,
 the car, my bag, etc., because it can be really unpleasant to be caught
 without a spare pair. Also, the cheap-o gloves can be worn under mittens
 so that you can very quickly take a mitten off, do something with the
 hand, and then quickly get the mitten back on without losing any
-fingers.
+fingers to frostbite.
 
 North Face also has some good ski gloves made of some kind of space
 polyester, which are a bit warmer than day-to-day gloves, but slightly
