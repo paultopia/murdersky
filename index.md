@@ -463,6 +463,8 @@ Car batteries and winter do not mix.  I speak from painful recent experience wit
 
 Engine block heaters are supposed to help with this, but not everyone has a setup that can accommodate such a thing.  Probably the best advice is just to drive pretty often to keep the car charged---ideally every few days take the car out. Like dogs, cars need to go for walkies. Longer drives are better than shorter drives for charging. 
 
+This [Chicago tribune (actually some semi-crooked-seeming affiliated syndication agency) article](https://www.chicagotribune.com/consumer-reviews/sns-bestreviews-auto-start-car-cold-weather-20210117-uf6bsn4djjh6defjh4glpbp22u-story.html) has an even more depressing battery take than me. They claim that you have to get the car up to freeway speeds, and to do it as much as once or twice a day when the temperature is around zero---and the cold might still kill your battery.  So basically, if you live in the midwest, I guess budget for buying a new car battery every year? 
+
 Also: fuel lines can freeze; keep the tank about half full at all times in the
 winter.
 
