@@ -195,7 +195,7 @@ The other main problem with woolen-type things is static electricity. I can't he
 This is the most important piece. You need a heavy down-lined jacket
 with a hood. These are expensive, but worth every penny.
 
-L.L. Bean jackets is a pretty good option, they tend to make very warm coats for a reasonable price. I've owned two at various points, the first, which seems to not currently be
+L.L. Bean jackets are a pretty good option, they tend to make very warm coats for a reasonable price. I've owned two at various points, the first, which seems to not currently be
 on sale except in inferior versions, is the
 [Windstopper](http://www.slate.com/articles/life/fashion/2014/01/l_l_bean_windstopper_the_winter_coat_you_need_to_survive_an_ungodly_cold.html),
 stuffed with 700-fill goose down. The second, which is still on sale, is
@@ -215,7 +215,7 @@ supposed to be excellent, but their prices tend to climb up to the
 some random website claiming to be an outlet and offering Canada Goose
 at like half price, it’s almost certainly counterfeit.
 
-Also, Canada Goose is famously overpriced and fashionable these days.  Last winter, I decided to upgrade to an even-warmer jacket with real fur and such, so I went to the Canada Goose store in Boston.  They had---I kid you not---a *velvet rope* outside the door and forced people to wait in line to go inside (the store wasn't at capacity, and this was pre-COVID; they were just being pretentious).  Needless to say, I said "hell no" and went to Woolrich instead.  It turns out that was actually a really good idea, and I ended up snagging a just-as-good-as-Canada-Goose jacket for a little bit cheaper---basically [this jacket](https://www.woolrich.com/arctic-parka-with-detachable-fur-wo0103/) but in Gore-Tex.
+Also, Canada Goose is famously overpriced and fashionable these days.  Last winter, I decided to upgrade to an even-warmer jacket with real fur and such, so I went to the Canada Goose store in Boston.  They had---I kid you not---a *velvet rope* outside the door and forced people to wait in line to go inside (the store wasn't at capacity, and this was pre-COVID; they were just being pretentious).  Needless to say, I said "hell no" and went to Woolrich instead.  It turns out that was actually a really good idea, and I ended up snagging a just-as-good-as-Canada-Goose jacket for a little bit cheaper---basically [this jacket](https://www.woolrich.com/arctic-parka-with-detachable-fur-wo0103/) but in Gore-Tex. (Honestly, that can be my only layer down to about 20 degrees or even a little lower. It's a really warm jacket.)
 
 I’m not terribly convinced by companies like North Face (except for gloves---see below---I've always had good luck with North Face gloves), Patagonia,
 etc., but your mileage may vary. For light second layers/outer layers
