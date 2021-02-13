@@ -135,6 +135,14 @@ I do not endorse the “walk outside” part.
 
 Here are some principles to guide your choice of clothing. Warning: while I recommend specific products here, the winter clothing industry isn't immune from the pathologies of the rest of the fashion industry, or of capitalism more generally. Products get discontinued all the time, or randomly changed; it's almost impossible to identify something that one found in the store on a company's website (and half the time the store product line and the website product line are different).  Almost like they want to confuse people into buying things that don't meet their needs the first time and then having to buy a second thing later, huh? So, buyer beware.
 
+I mention a lot of brands in the below, but here is my list of generally reliable companies: 
+
+- L.L. Bean for everything
+- North Face and Rab for gloves
+- Overland for gloves and hats
+- Novica for sweaters, but be careful about fabric content
+- Uniqlo ("Heattech") for long underwear
+
 ### Wear Layers
 
 The temperature can vary widely in a day, and it will also vary widely
@@ -172,13 +180,15 @@ ordinary sheep/lambswool. Cashmere is much softer and much more
 expensive, but you can sometimes get a bargain, especially at
 consignment stores in big cities. Alpaca is cheaper and warmer than
 cashmere, almost as soft, but, as I said, a bit itchy
-sometimes.^[If you really have a lot of money, the warmest wool of all is supposed to be qiviut, which comes from the belly fur of an Alaskan musk ox or some other such ridiculous thing. I’ve never tried it, however, as it’s extraordinarily expensive. My best advice for being able to afford it is to play scrabble for money, use the word "qiviut" to crush your opponents, and then use your winnings to buy yourself a lovely scarf.]
+sometimes.
+
+If you really have a lot of money, the warmest wool of all is supposed to be qiviut, which comes from the belly fur of an Alaskan musk ox or some other such ridiculous thing. It’s extraordinarily expensive. As an experiment, I dropped 300 bucks on a qiviut nachaq (basically a babushka hood) from [these people](https://www.qiviut.com/) who seem legit. It is pretty warm and extremely soft, but I don't wear it often because it's very delicate, and when you have a $300 head-wrap that will probably be combined with hats or hoods and hence damaged, it feels a little too precious to actually use.  So, maybe don't bother unless you're rich?
 
 Many manufacturers put acrylic in cheap knitwear. *Do not buy this
 garbage.* Some people have wool allergies. If that’s you, poly fleece is
 still better than acrylic for most things. Acrylic is horrible.
 
-The other main problem with woolen-type things is static electricity. I can't help you there, I've never managed to figure out how to not shock myself whenever I do something simple like touch the fridge. I've also never taken a physics class, which doesn't help.  Engineers, some help here?
+The other main problem with woolen-type things is static electricity. I can't help you there, I've never managed to figure out how to not shock myself whenever I do something simple like touch the fridge. Polyester and Wool/Alpaca seem to be about equally bad. I've also never taken a physics class, which doesn't help.  Engineers, some help here?
 
 ### Jackets
 
@@ -337,19 +347,22 @@ Windstopper jacket.
 
 ### Boots
 
-Here, I don’t have great advice: I’ve never found a pair of winter boots
-I’ve been happy with. Right now I wear [these
-boots](https://www.amazon.com/gp/product/B00Q7JETIC/), and they’re OK.
+My current boots are [these](https://www.llbean.com/llb/shop/118204?page=mens-snow-sneakers-with-arctic-grip-mid-hook-and-loop): L.L. Bean boots with Vibram's "arctic grip" soles---which seem to more or less sorta kinda work for keeping me from slipping on ice mostly. 
+
+I also own [these
+boots](https://www.amazon.com/gp/product/B00Q7JETIC/), which are a bit taller and hence better for big piles of snow, and they’re OK.
 Not amazing (the laces get stiff and salty and annoying), but I can
 stomp through a snow drift in them and not get my feet soaked so there’s
 that.
+
+Finally, I own a pair of really ugly low-top slip-on shoes with those Vibram soles for when there is ice but not piles of snow on the ground, and it isn't too horribly cold. [These things](https://www.llbean.com/llb/shop/121204?page=mens-insulated-comfort-moc-leather-waterproof-arcticgrip-mens) are the ugliest shoes I've ever owned, but they seem to help a little bit with traction.  Or maybe I'm imagining it.
 
 Generally, wool-lined is good. Wear them with thick wool socks and your
 feet will be toasty as all get out. For women, the [Joan of Arctic
 Boot](http://www.sorel.com/womens-joan-of-arctic-boot-1708791.html)
 comes recommended, with some caveats about possible durability issues.
 
-A number of people have also recommended L.L. Bean boots. A member of
+A member of
 the Cold-Weather People Editorial Board which I have decreed to exist
 and which is comprised of the various friends cited in here also
 suggests Keen Targhee II Mid boots, at least for snow under 6 inches
@@ -444,6 +457,19 @@ countless cars in the ditch on every freeway in Iowa in the
 winter. Don’t let that be you. Just let the testosterone-mad pickup
 truck morons pass.
 
+### Maintenance issues: battery, tires, fuel
+
+Car batteries and winter do not mix.  I speak from painful recent experience with this, as I just replaced a brand new battery that was less than a year old but which died completely from the combination of moving to the city (and hence driving less often and shorter distances) + winter.  There's nothing less fun than trudging for half an hour on the cusp of a polar vortex back and forth between home and the auto shop on short notice. (In most cases, FYI, a battery should cost around $200, give or take.)
+
+Engine block heaters are supposed to help with this, but not everyone has a setup that can accommodate such a thing.  Probably the best advice is just to drive pretty often to keep the car charged---ideally every few days take the car out. Like dogs, cars need to go for walkies. Longer drives are better than shorter drives for charging. 
+
+Also: fuel lines can freeze; keep the tank about half full at all times in the
+winter.
+
+Tire pressure goes down in the winter. Check it when it gets cold, and
+add more air.
+
+
 ### Don’t Get Stranded and Freeze to Death in Your Car
 
 If you can, get roadside assistance through your insurance company (or
@@ -466,11 +492,6 @@ Those are sold at truck stops and the like.
 If you go out of town, you should also keep emergency survival supplies
 in your car to survive long enough for rescue to arrive. These include blankets, chemical hand warmers, food, water, and maybe flares, etc.
 
-Fuel lines can freeze; keep the tank about half full at all times in the
-winter.
-
-Tire pressure goes down in the winter. Check it when it gets cold, and
-add more air.
 
 From a Canadian friend:
 
@@ -480,7 +501,9 @@ From a Canadian friend:
 > to death in your car. So always dress for the weather (hat, gloves,
 > winter coat) even if you don’t intend to spend time outside.
 
-Engine block heaters will help with the cold killing your car battery.
+### Snow on the windshield sucks, snow underneath your tires sucks worse.
+
+You have a shovel in the car, right?  I once had to shovel half of the University of Iowa College of Law's faculty parking lot just to go home. There are also [traction mats](https://www.amazon.com/gp/product/B00S0CZZD2/) that you can try keeping the car to stick under your wheels to get that first bit of grip and then momentum to get out of a snowdrift.  One of my midwestern friends claims that "a big piece of cardboard" can do the trick too.
 
 Canadian friend again:
 
@@ -514,18 +537,19 @@ hoses, and there’s a longstanding rumor that one day a physicist broke
 the whole system by getting impatient with the tortuous snow removal
 process and trying to vacuum it off.)
 
-> A big piece of cardboard can provide traction if your wheels are stuck
-> and spinning in the snow.
+For Iowa City people, beware the city, which combines incompetence and outright malice whenever snow starts. Midwestern friend: 
 
 > Iowa City likes to plow big snow berms into the middle of the street.
 > Use extreme caution when trying to cross them on either foot or in
 > vehicle. They are treacherous.
 
-(Editorial note: also, if you park a bike outside, bring it inside at
+Also, if you park a bike outside, bring it inside at
 the first sight of snow, especially if it’s in a city bike rack. Once, my wife had her bike stuck
-in a gigantic block of ice/snow all winter, thanks to Iowa City's malicious municipal
+in a gigantic block of ice/snow all winter, thanks to Iowa City's completely blithering municipal
 government deciding to plow a pile of snow *directly on top of it*. That, needless to say, was not a cheap repair when it
-melted.)
+melted. 
+
+Chicago, by contrast, seems to be actually competent with snow removal. 
 
 ## Money Matters
 
@@ -599,9 +623,9 @@ And Iowan friend:
 
 # Surviving Spring
 
-Fluctuating wildly between freezing and storming. If you hear a really loud “boom” it’s a thunderstorm, not a terrorist attack (probably). It can go from dry and sunny to 5 inches of water  on the ground in about 10 minutes; in that same period it can also start dropping golfball style hail. I once got caught out in the middle of nowhere on the freeway in one of those, and am alive today mainly because my windshield held. People tend to hide under freeway underpasses in this kind of situation, even though there are
-persistent rumors that tornadoes will suck you out from under them
-and slaughter you. 
+Fluctuating wildly between freezing and storming. If you hear a really loud “boom” it’s a thunderstorm, not a terrorist attack (probably). It can go from dry and sunny to 5 inches of water  on the ground in about 10 minutes; in that same period it can also start dropping golfball style hail. 
+
+I once got caught out in the middle of nowhere on the freeway in one of those, and am alive today mainly because my windshield held. People tend to hide under freeway underpasses in this kind of situation, even though there are persistent rumors that tornadoes will suck you out from under them and slaughter you. So, probably don't take long drives in the spring (or summer)?  And, of course, long drives in the winter are deadly too, for above-noted reasons.  Just stay home, let the murder come to you. Except in the fall.  It's more or less safe to leave the house in the fall. 
 
 
 
