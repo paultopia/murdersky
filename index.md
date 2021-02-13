@@ -6,8 +6,8 @@ subtitle: A Californian's Guide to Surviving Midwestern Weather
 
 Written while shivering by [Paul Gowder](https://gowder.io). Mostly derived from experiences from 8 years in Iowa, and slowly being updated to cover Chicago as well.  
 
-<div id="openweathermap-widget-21"></div>
-<script src='//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/d3.min.js'></script><script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 21,cityid: '4887398',appid: '05b51896060a477dd9dbdc71bfe361b0',units: 'imperial',containerid: 'openweathermap-widget-21',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
+<div id="openweathermap-widget-22"></div>
+<script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 22,cityid: '4887398',appid: '05b51896060a477dd9dbdc71bfe361b0',units: 'imperial',containerid: 'openweathermap-widget-22',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
 
 # Surviving Winter 
 
