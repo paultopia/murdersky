@@ -1,174 +1,278 @@
 @font-face {
-    font-family: 'CooperHewitt';
-    src: url('CooperHewitt-Semibold.woff') format('woff');
-    font-style: normal;
-    font-weight: 700;
+  font-family: 'CooperHewitt';
+  src: url('CooperHewitt-Semibold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
 }
 
 @font-face {
-    font-family: 'CooperHewitt';
-    src: url('CooperHewitt-Book.woff') format('woff');
-    font-style: normal;
-    font-weight: 300;
+  font-family: 'CooperHewitt';
+  src: url('CooperHewitt-Book.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
 }
 
 @font-face {
-    font-family: 'CooperHewitt';
-    src: url('CooperHewitt-Medium.woff') format('woff');
-    font-style: normal;
-    font-weight: 200;
+  font-family: 'CooperHewitt';
+  src: url('CooperHewitt-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 200;
 }
 
 @font-face {
-    font-family: 'CooperHewitt';
-    src: url('CooperHewitt-Light.woff') format('woff');
-    font-style: normal;
-    font-weight: 100;
-}
-
-
-@font-face {
-    font-family: 'Charter';
-    src: url('charter_bold.woff') format('woff');
-    font-style: normal;
-    font-weight: 700;
+  font-family: 'CooperHewitt';
+  src: url('CooperHewitt-Light.woff') format('woff');
+  font-style: normal;
+  font-weight: 100;
 }
 
 @font-face {
-    font-family: 'Charter';
-    src: url('charter_bold_italic.woff') format('woff');
-    font-style: italic;
-    font-weight: 700;
-}
-
-
-@font-face {
-    font-family: 'Charter';
-    src: url('charter_italic.woff') format('woff');
-    font-style: italic;
-    font-weight: 300;
+  font-family: 'Charter';
+  src: url('charter_bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
 }
 
 @font-face {
-    font-family: 'Charter';
-    src: url('charter_regular.woff') format('woff');
-    font-style: normal;
-    font-weight: 300;
+  font-family: 'Charter';
+  src: url('charter_bold_italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 700;
 }
 
 @font-face {
-    font-family: 'SourceCodePro';
-    src: url('SourceCodePro-Regular.otf.woff') format('woff');
-    font-style: normal;
-    font-weight: 300;
+  font-family: 'Charter';
+  src: url('charter_italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 300;
 }
 
-
-:root {  
-    --accent-color: #2A5D87;
-    }
-
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
+@font-face {
+  font-family: 'Charter';
+  src: url('charter_regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
 }
 
-footer, header, hgroup, menu, nav, section {
-    display: block;
+@font-face {
+  font-family: 'SourceCodePro';
+  src: url('SourceCodePro-Regular.otf.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
 }
-body {
-    line-height: 1;
+
+:root {
+  --accent-color: #2a5d87;
 }
-blockquote, q {
-    quotes: none;
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
-    content: '';
-    content: none;
+
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
 }
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote::before,
+blockquote::after,
+q::before,
+q::after {
+  content: '';
+  content: none;
+}
+
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 body {
-    font-size: 16px;
-    line-height: 1.5em;
-    color: #444;
+  font-size: 16px;
+  line-height: 1.5em;
+  color: #444;
 }
 
-body, p {
-    font-family: Charter, Georgia, serif;
-    text-rendering: optimizeLegibility;
-    font-feature-settings: "kern";
+body,
+p {
+  font-family: Charter, Georgia, serif;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: CooperHewitt, sans-serif;
-    font-weight: 700;
-    color: var(--accent-color);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: CooperHewitt, sans-serif;
+  font-weight: 700;
+  color: var(--accent-color);
 }
 
-.post pre, .page pre {
-    font-family: SourceCodePro, Monospace;
+.post pre,
+.page pre {
+  font-family: SourceCodePro, monospace;
 }
-
 
 a {
-    text-decoration: none;
-    color: var(--accent-color);
-    font-weight: bold;
+  text-decoration: none;
+  color: var(--accent-color);
+  font-weight: bold;
 }
 
 ul {
-    list-style-position: inside;
-    list-style-type: "⚡";
+  list-style-position: inside;
+  list-style-type: "⚡";
 }
 
 ol {
-    list-style-position: inside;
+  list-style-position: inside;
 }
 
-h1, h2, h3 {
-    font-size: 1.5em;
-    line-height: 1em;
-    margin: 1em 0;
+h1,
+h2,
+h3 {
+  font-size: 1.5em;
+  line-height: 1em;
+  margin: 1em 0;
 }
 
-img, p, .post > .highlight, .highlighttable, h4, h5, h6 {
-    margin-top: 1.2em;
+img,
+p,
+.post > .highlight,
+.highlighttable,
+h4,
+h5,
+h6 {
+  margin-top: 1.2em;
 }
 
 @media screen and (min-width: 601px) {
-
-    h1, h2, h3, h4, h5, h6, p, img, ul, ol, figcaption, .external {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  img,
+  ul,
+  ol,
+  figcaption,
+  .external {
     padding-left: 15%;
     padding-right: 15%;
-    }
+  }
 }
 
 @media screen and (max-width: 600px) {
-
-    h1, h2, h3, h4, h5, h6, p, img, ul, ol, figcaption, .external {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  img,
+  ul,
+  ol,
+  figcaption,
+  .external {
     padding-left: 5%;
     padding-right: 5%;
-    }
+  }
 }
