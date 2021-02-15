@@ -468,6 +468,10 @@ countless cars in the ditch on every freeway in Iowa in the
 winter. Don’t let that be you. Just let the testosterone-mad pickup
 truck morons pass.
 
+Sometimes the NWS throws up its hands and says "dunno, it's a mess, just don't drive."
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[10:00 PM 2/14] A complicated forecast to communicate over the next 36+ hours w/ multiple waves of snow &amp; lake-enhancement. We&#39;ve attempted to pare the forecast timeline down into smaller regions in this graphic. End result: travel will become very challenging Mon. into Tues. <a href="https://t.co/7WBNsNybXm">pic.twitter.com/7WBNsNybXm</a></p>&mdash; NWS Chicago (@NWSChicago) <a href="https://twitter.com/NWSChicago/status/1361164254083170304?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Maintenance issues: battery, tires, fuel
 
 Car batteries and winter do not mix.  I speak from painful recent experience with this, as I just replaced a brand new battery that was less than a year old but which died completely from the combination of moving to the city (and hence driving less often and shorter distances) + winter.  There's nothing less fun than trudging for half an hour on the cusp of a polar vortex back and forth between home and the auto shop on short notice. (In most cases, FYI, a battery should cost around $200, give or take.)
