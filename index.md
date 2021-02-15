@@ -36,6 +36,8 @@ would be bad), and possibly also dying of hypothermia. And also just how
 bloody horrible it is to be outdoors. During the “polar vortex” winter,
 windchill got down to the -50 range.
 
+![NOAA windchill chart](windchill.gif)
+
 ## Weather Forecasts are Nonsense
 
 The weather forecasts tend to be hilariously inaccurate at anything
