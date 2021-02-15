@@ -168,7 +168,7 @@ img, p, .post > .highlight, .highlighttable, h4, h5, h6 {
 @media screen and (mxz-width: 600px) {
 
     h1, h2, h3, h4, h5, h6, p, img, ul, ol, figcaption, .external {
-    padding-left: 5%;
+    padding-left: 10%;
     padding-right: 5%;
     }
 }

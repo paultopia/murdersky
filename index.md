@@ -39,7 +39,7 @@ would be bad), and possibly also dying of hypothermia. And also just how
 bloody horrible it is to be outdoors. During the “polar vortex” winter,
 windchill got down to the -50 range.
 
-![NOAA windchill chart](windchill.gif)
+<img src="windchill.gif" width="70%">
 
 Just go look at recent examples from the National Weather Service. Click the image to see the traumatizing numbers. 
 
