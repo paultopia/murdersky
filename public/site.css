@@ -145,11 +145,12 @@ a {
 }
 
 ul {
-    list-style: outside disc;
+    list-style-position: inside;
+    list-style-type: "⚡";
 }
 
 ol {
-    list-style: outside decimal;
+    list-style-position: inside;
 }
 
 h1, h2, h3 {
@@ -170,3 +171,10 @@ img, p, .post > .highlight, .highlighttable, h4, h5, h6 {
     }
 }
 
+@media screen and (mxz-width: 600px) {
+
+    h1, h2, h3, h4, h5, h6, p, div, img, ul, ol, figcaption {
+    padding-left: 5%;
+    padding-right: 5%;
+    }
+}
