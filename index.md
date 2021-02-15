@@ -38,6 +38,10 @@ windchill got down to the -50 range.
 
 ![NOAA windchill chart](windchill.gif)
 
+Just go look at recent examples from the National Weather Service. Click the image to see the traumatizing numbers. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To give you an idea of just how COLD it&#39;s going to be for many of you this week/weekend, these are the wind chills forecast for Sunday morning. Those purples are BELOW ZERO. Make sure you take the proper precautions if you live in these areas. <a href="https://t.co/VyWINDk3xP">https://t.co/VyWINDk3xP</a> for more. <a href="https://t.co/1qYYrp9cga">pic.twitter.com/1qYYrp9cga</a></p>&mdash; National Weather Service (@NWS) <a href="https://twitter.com/NWS/status/1359269482435403780?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Weather Forecasts are Nonsense
 
 The weather forecasts tend to be hilariously inaccurate at anything
