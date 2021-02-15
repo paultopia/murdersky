@@ -46,11 +46,15 @@ clothing (see below), as well as gear for whatever
 temperature-appropriate kind of precipitation could happen that day
 (snow, rain, freezing rain, etc.).
 
-Also, it is imperative to subscribe to a weather alert service that
+### Weather Alerts are Idiotic. Subscribe to One Anyway
+
+You need to subscribe to a weather alert service that
 sends text messages or push notifications or the like when, e.g., a blizzard or a patch of sub-sub-sub
-freezing wind is rolling in (these can come out of nowhere). I used to subscribe
+freezing wind is rolling in.  This is a consequence of the previous point, re: forecasting being totally inaccurate. Dangerous storms can just randomly show up with no prior notice, and if you don't get the text message or whatever you may, e.g., go a long way away from home and then get stranded or worse.
+
+I used to subscribe
 to the weather alerts offered by
-[“Accuweather”](https://alert.accuweather.com/accualert/), but then I realized that their *unsubscribe* page doesn't work, so I couldn't get off it when I moved from Iowa City to Chicago, and ended up having to block their numbers and e-mails.  Now I just use the [Carrot Weather](https://www.meetcarrot.com/weather/) app's push notifications, and also pay their ridiculous subscription prices in order to have maximum weather data and customizable notifications and weather maps on my watch (!!) and all the rest.  This sort of stuff is necessary when you live in the Midwest, trust me.  
+[“Accuweather”](https://alert.accuweather.com/accualert/), but then I realized that their *unsubscribe* page doesn't work, so I couldn't get off it when I moved from Iowa City to Chicago, and ended up having to block their numbers and e-mails.  Now I just use the [Carrot Weather](https://www.meetcarrot.com/weather/) app's push notifications, and also pay their ridiculous subscription prices in order to have maximum weather data and customizable notifications and weather maps on my watch (!!) and all the rest.  I also get the City of Chicago's alerts, which include weather along with things like street closures. 
 
 These weather alerts will be infuriating. They send exactly the same
 alert for “hey, it’s going to be a little bit foggy this morning, but
@@ -60,8 +64,13 @@ type this weather alert, all nonessential services are shut down,
 sinkholes are opening on the sidewalk, and starving baby deer have
 turned carnivorous and have all the elementary schools under siege.”
 Apparently their parents never read them the story of the boy who cried
-wolf. Nonetheless, the alerts are also a good way to learn about
+wolf. 
+
+
+Also, the volume of alerts is totally unbearable.  For example, the City of Chicago apparently feels the need to tell me *every day* that I should leave my water trickling to avoid a frozen pipe.  I guess that they think that I'll forget overnight. Nonetheless, the alerts are also a good way to learn about
 impending sky-assassination attempts, so read them anyway.
+
+<img src="notifications.png" width="200"/>
 
 ## Traveling is Hard
 
