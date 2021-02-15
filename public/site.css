@@ -65,7 +65,7 @@
 
 
 
-body {
+body, p {
     font-family: Charter, Georgia, serif;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern";
