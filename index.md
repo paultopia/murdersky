@@ -7,8 +7,10 @@ document-css: false
 
 Written while shivering by [Paul Gowder](https://gowder.io). Mostly derived from experiences from 8 years in Iowa, and slowly being updated to cover Chicago as well.  
 
+<div class="external">
 <div id="openweathermap-widget-22"></div>
 <script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 22,cityid: '4887398',appid: '05b51896060a477dd9dbdc71bfe361b0',units: 'imperial',containerid: 'openweathermap-widget-22',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
+<div>
 
 # Surviving Winter 
 
@@ -41,7 +43,9 @@ windchill got down to the -50 range.
 
 Just go look at recent examples from the National Weather Service. Click the image to see the traumatizing numbers. 
 
+<div class="external">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">To give you an idea of just how COLD it&#39;s going to be for many of you this week/weekend, these are the wind chills forecast for Sunday morning. Those purples are BELOW ZERO. Make sure you take the proper precautions if you live in these areas. <a href="https://t.co/VyWINDk3xP">https://t.co/VyWINDk3xP</a> for more. <a href="https://t.co/1qYYrp9cga">pic.twitter.com/1qYYrp9cga</a></p>&mdash; National Weather Service (@NWS) <a href="https://twitter.com/NWS/status/1359269482435403780?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ## Weather Forecasts are Nonsense
 
@@ -475,7 +479,9 @@ truck morons pass.
 
 Sometimes the NWS throws up its hands and says "dunno, it's a mess, just don't drive."
 
+<div class="external">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">[10:00 PM 2/14] A complicated forecast to communicate over the next 36+ hours w/ multiple waves of snow &amp; lake-enhancement. We&#39;ve attempted to pare the forecast timeline down into smaller regions in this graphic. End result: travel will become very challenging Mon. into Tues. <a href="https://t.co/7WBNsNybXm">pic.twitter.com/7WBNsNybXm</a></p>&mdash; NWS Chicago (@NWSChicago) <a href="https://twitter.com/NWSChicago/status/1361164254083170304?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ### Maintenance issues: battery, tires, fuel
 
@@ -507,9 +513,8 @@ etc. for the winter.
 
 Also, keep a kit in your car that consists, at a minimum, of:
 
--   a shovel to dig out of the snow
-
--   a brush + ice scraper to get snow and ice off your windshield
+- a shovel to dig out of the snow
+- a brush + ice scraper to get snow and ice off your windshield
 
 Those are sold at truck stops and the like.
 

@@ -96,9 +96,6 @@ footer, header, hgroup, menu, nav, section {
 body {
     line-height: 1;
 }
-ol, ul {
-    list-style: none;
-}
 blockquote, q {
     quotes: none;
 }
@@ -132,6 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 a.nav-link {
     font-family: CooperHewitt, sans-serif;
     font-weight: 300;
+    color: var(--accent-color);
 }
 
 .post pre, .page pre {
@@ -165,7 +163,7 @@ img, p, .post > .highlight, .highlighttable, h4, h5, h6 {
 
 @media screen and (min-width: 601px) {
 
-    h1, h2, h3, h4, h5, h6, p, div, img, ul, ol, figcaption {
+    h1, h2, h3, h4, h5, h6, p, img, ul, ol, figcaption, .external {
     padding-left: 15%;
     padding-right: 15%;
     }
@@ -173,7 +171,7 @@ img, p, .post > .highlight, .highlighttable, h4, h5, h6 {
 
 @media screen and (mxz-width: 600px) {
 
-    h1, h2, h3, h4, h5, h6, p, div, img, ul, ol, figcaption {
+    h1, h2, h3, h4, h5, h6, p, img, ul, ol, figcaption, .external {
     padding-left: 5%;
     padding-right: 5%;
     }
