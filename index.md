@@ -1,6 +1,9 @@
 ---
 title: The Sky Wants to Murder You
 subtitle: A Californian's Guide to Surviving Midwestern Weather
+css: 
+- fonts/fonts.css
+document-css: false
 ---
 
 
