@@ -164,6 +164,8 @@ section {
 blockquote,
 q {
   quotes: none;
+  color: var(--accent-color);
+  border-left: 5px solid #ccc;
 }
 
 blockquote::before,
