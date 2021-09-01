@@ -573,7 +573,7 @@ For Iowa City people, beware the city, which combines incompetence and outright 
 > vehicle. They are treacherous.
 
 Also, if you park a bike outside, bring it inside at
-the first sight of snow, especially if it’s in a city bike rack. Once, my wife had her bike stuck
+the first sight of snow, especially if it’s in a city bike rack. Once, an ex of mine had her bike stuck
 in a gigantic block of ice/snow all winter, thanks to Iowa City's completely blithering municipal
 government deciding to plow a pile of snow *directly on top of it*. That, needless to say, was not a cheap repair when it
 melted. 
