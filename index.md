@@ -661,7 +661,7 @@ I once got caught out in the middle of nowhere on the freeway in one of those, a
 August 28 ought to be the most reliable time of year: at the cusp of summer and fall, it's the most normal time for weather in the Midwest.  In 2022, that day began as a beautiful clear day: 
 
 
-<img src="cowardly.jpg" width="70%">
+<img src="clearsky.jpg" width="70%">
 
 
 Yet to my surprise, just before taking that photo, I got a weather alert email claiming that there was a severe thunderstorm on the way: 
