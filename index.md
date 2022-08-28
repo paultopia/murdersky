@@ -656,6 +656,26 @@ Fluctuating wildly between freezing and storming. If you hear a really loud “b
 
 I once got caught out in the middle of nowhere on the freeway in one of those, and am alive today mainly because my windshield held. People tend to hide under freeway underpasses in this kind of situation, even though there are persistent rumors that tornadoes will suck you out from under them and slaughter you. So, probably don't take long drives in the spring (or summer)?  And, of course, long drives in the winter are deadly too, for above-noted reasons.  Just stay home, let the murder come to you. Except in the fall.  It's more or less safe to leave the house in the fall. 
 
+# Every Season: Don't Trust the Sky
+
+August 28 ought to be the most reliable time of year: at the cusp of summer and fall, it's the most normal time for weather in the Midwest.  In 2022, that day began as a beautiful clear day: 
+
+
+<img src="cowardly.jpg" width="70%">
+
+
+Yet to my surprise, just before taking that photo, I got a weather alert email claiming that there was a severe thunderstorm on the way: 
+
+
+<img src="warning.png" width="70%">
+
+What gives?  Well, checking the radar screen of my weather app (TIP: the radar screen of your weather app is by far the most reliable way of getting a feel for when murder attempts are about to happen), I discovered a vicious line of murder: 
+
+<img src="menace.png" width="70%">
+
+That red line is basically sky chaos (I've never been able to figure out whether the color scheme means amount of rain or amount of wind or what, but it seems to do a decent job of tracking general death severity/chaos).  Since big weather patterns tend to descend on Chicago from the west, that mfer looks to be about to hit me upside the head at some indeterminate point in the future. Unless it randomly dissipates before it gets here.  Which it could!  Who knows! 
+
+Pretty much the only solution I've ever been able to come up with for this is to have several seasons of clothing available wherever you are at all times, including something to fight off the rain.^[Incidentally, Midwest wind will destroy cheap umbrellas.  I once had a \$25 Totes umbrella snap in half in my hand in downtown Chicago. Currently, I carry an insanely expensive [Davek](https://davekny.com) umbrella, which is *very* robust. More importantly, they claim to offer a [warranty](https://davekny.com/pages/lifetime-guarantee) that will replace the umbrella if it breaks for any reason whatsoever. As I read it (somewhat aggressively) I could throw the umbrella into a wood chipper and they'd replace it... though obviously asking some judge to enforce that would be, uh, no. The real risk then becomes losing the umbrella, and they only give you a 50% discount if that happens.  So I put an AirTag on mine.]  If you drive everywhere, this need is slightly mitigated, but if you have the temerity to walk or (worse) bike away from home basically ever, regardless of what the weather seems like or what the forecast says before you leave, you must plan for the risk of a downpour, high winds, possibly even hail and tornadoes.  (Unsurprisingly under those circumstances Uber surge pricing tends to kick in and it becomes very expensive to flee in a vehicle.) 
 
 
 ----
