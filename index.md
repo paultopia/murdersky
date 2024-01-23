@@ -143,6 +143,9 @@ the landlord gets around to it. Also, you’ll want to invest in some kind
 of salt or a more pet-safe equivalent to melt ice. I use [this
 stuff](https://www.amazon.com/Safe-Paw-Non-Toxic-Melter-lbs/dp/B0002IJXDA/).
 
+Relatedly, midwestern cities tend to require that *some* private person remove the snow from the sidewalks abutting where you live.  And no, they don't care whether or not someone is elderly, has a disability that makes it difficult, etc. etc. They at least threaten to fine people who don't comply, sometimes by ridiculous hours---for example, snow that falls overnight before 7am [apparently has to be removed by 10am in Chicago](https://www.chicago.gov/city/en/depts/cdot/supp_info/sidewalk_snow_removal.html). This seems to me to be a really idiotic policy, given that people have lives and are perfectly capable of paying taxes to have this public good publicly supplied the same way as other sidewalk maintenance, but, sadly, I am not the dictator. (City of Chicago to residents, apparently: "Do you have a job, or kids in school, or any other morning obligations whatsoever?  Fuck you!"  On the other hand, if you hate your neighbor, it could be amusing to call and narc on them at 10:01 every snow morning.)  This is a great reason to rent, or buy in a condo, where the building pays people to take care of this crap. 
+
+
 ## Stay Sane
 
 Psychological well-being is also important; being trapped indoors in the
@@ -235,7 +238,7 @@ supposed to be excellent, but their prices tend to climb up to the
 some random website claiming to be an outlet and offering Canada Goose
 at like half price, it’s almost certainly counterfeit.
 
-Also, Canada Goose is famously overpriced and fashionable these days.  Last winter, I decided to upgrade to an even-warmer jacket with real fur and such, so I went to the Canada Goose store in Boston.  They had---I kid you not---a *velvet rope* outside the door and forced people to wait in line to go inside (the store wasn't at capacity, and this was pre-COVID; they were just being pretentious).  Needless to say, I said "hell no" and went to Woolrich instead.  It turns out that was actually a really good idea, and I ended up snagging a just-as-good-as-Canada-Goose jacket for a little bit cheaper---basically [this jacket](https://www.woolrich.com/arctic-parka-with-detachable-fur-wo0103/) but in Gore-Tex. (Honestly, that can be my only layer down to about 20 degrees or even a little lower. It's a really warm jacket.)
+Also, Canada Goose is famously overpriced and fashionable these days.  Last winter, I decided to upgrade to an even-warmer jacket with real fur and such, so I went to the Canada Goose store in Boston.  They had---I kid you not---a *velvet rope* outside the door and forced people to wait in line to go inside (the store wasn't at capacity, and this was pre-COVID; they were just being pretentious).  Needless to say, I said "hell no" and went to Woolrich instead.  It turns out that was actually a really good idea, and I ended up snagging a just-as-good-as-Canada-Goose jacket for a little bit cheaper---basically [this Woolrich jacket](https://www.woolrich.com/arctic-parka-with-detachable-fur-wo0103/) but in Gore-Tex. (Honestly, that can be my only layer down to about 20 degrees or even a little lower. It's a really warm jacket.)
 
 I’m not terribly convinced by companies like North Face (except for gloves---see below---I've always had good luck with North Face gloves), Patagonia,
 etc., but your mileage may vary. For light second layers/outer layers
@@ -258,9 +261,8 @@ allow you to regulate the heat and minimize sweatyness.
 Shearling is also a good material for jacket linings. That’s what
 they’ve used in places like Russia for a long time.
 
-I’ve heard good things about another Canadian company called [Moose
-Knuckles.](http://www.mooseknucklescanada.com/us/) It’s also just an
-amazing name.
+I recently acquired a jacket from another Canadian company called [Moose
+Knuckles.](http://www.mooseknucklescanada.com/us/) It’s very warm but also very expensive, also just an amazing name.  Honestly not quite as good as the Woolrich one though.
 
 ### Sweaters
 
@@ -310,6 +312,8 @@ There's long underwear for your top half and long underwear for your bottom half
 
 For your top half, if you have a decent jacket and a sweater, you won't need long underwear to keep warm. But you will still need it, especially if you're actually moving outdoors.  The reason is that sufficient clothing to keep you from freezing to death when you stand still will also make you sweat like a warthog on cocaine the moment you move, and then you'll end up with your clothes soaked.  (Native midwesterners claim that there's some magical formula of clothing that will prevent this. They are lying.) For example, I have a 25-minute walk from home to the office; there is no clothing that will keep me at a livable temperature for the start of the walk that will not make me feel like I'm in a sauna by the end.  Hence, you buy a long-sleeved undershirt that advertises "moisture wicking."  Somehow, by some bizarre science, this sort of thing, which sounds like advertising bullshit, more or less actually works (or at least the "Heattech" ones I buy seem to work.) to keep you semi-dry. This is especially important if you're wearing a dress shirt and you don't want to look like a mess at your destination (cough cough lawyers).
 
+Midwestern Girlfriend adds: "Cuddle duds are good long underwear that can be acquired at Costco."
+
 ### Gloves
 
 Here is a big utility/warmth tradeoff. Mittens (gloves with one big
@@ -320,8 +324,7 @@ it’s nearly impossible to actually use your hands in mittens.
 
 In particular, *do not try to use your phone with gloves, even if you
 have alleged “touchscreen gloves.”* First, touchscreen gloves don’t
-work. Worse, gloves compromise your grip a lot more than you’ll think.
-I’ve personally had two iPhones slip out of my hands onto concrete that
+work (except Hestra, see below). Worse, gloves compromise your grip a lot more than you’ll think. I’ve personally had two iPhones slip out of my hands onto concrete that
 way. (Iowa city people: your closest Apple Store is in Des Moines, a two-hour drive away. I speak from experience here: you do not want to drive two hours in winter
 to get a several-hundred-dollar screen replacement because you tried to
 look at your texts with gloves on.)  
@@ -333,15 +336,13 @@ for ordinary days, and shearling-lined mittens for really cold days. A
 company called [Overland](http://www.overland.com/) has a great supply
 of both gloves and mittens, and I tend to order everything from there.
 It’s a little expensive, but they have lots of sales. [These are my
-usual
-mittens.](http://www.overland.com/products/b-3-sheepskin-mittens-72001.aspx)
-And
-[these](http://www.overland.com/products/mens-dents-dunmore-cashmere-lined-deerskin-leather-and-twee-74512.aspx)
-are my usual (light) gloves (not appropriate for spending more than a
-couple minutes outside in winter temperatures, mostly used to get from
+usual mittens.](http://www.overland.com/products/b-3-sheepskin-mittens-72001.aspx)
+And [these](http://www.overland.com/products/mens-dents-dunmore-cashmere-lined-deerskin-leather-and-twee-74512.aspx) are my usual (light) gloves (not appropriate for spending more than a couple minutes outside in winter temperatures, mostly used to get from
 the parking lot to a building/while driving).  (Overland is one of my favorite winter stuff companies. They have a retail store in Chicago.)
 
 One very good compromise between hand warmth and being able to actually use one's hands are heavy duty [Rab gloves](https://rab.equipment/us/accessories-equipment/gloves).  A pair of the heaviest-duty Rab gloves I could find in the store has become my day-to-day winter glove except on the coldest days. They seem to market for mountain climbers, which is a pretty good proxy for needing to be able to use your hands but also needing to keep your fingers. But as usual, all the marketing bullshit makes it impossible to compare gloves online and tell which is warmest, so you should probably find an outdoors store and test them out if you want to follow my example here.
+
+Hestra gloves are fantastic. I bought [these](https://www.hestragloves.us/john-black) on sale and they're the only gloves whose touchscreen function has ever actually worked. 
 
 I also typically keep some cheap-o fabric gloves in every jacket pocket,
 the car, my bag, etc., because it can be really unpleasant to be caught
@@ -513,10 +514,10 @@ etc. for the winter.
 
 Also, keep a kit in your car that consists, at a minimum, of:
 
-- a shovel to dig out of the snow
-- a brush + ice scraper to get snow and ice off your windshield
+- a shovel to dig out of the snow; and
 
-Those are sold at truck stops and the like.
+- a brush + ice scraper to get snow and ice off your windshield (Those are sold at truck stops and the like.).
+
 
 If you go out of town, you should also keep emergency survival supplies
 in your car to survive long enough for rescue to arrive. These include blankets, chemical hand warmers, food, water, and maybe flares, etc.
@@ -533,6 +534,8 @@ From a Canadian friend:
 ### Snow on the windshield sucks, snow underneath your tires sucks worse.
 
 You have a shovel in the car, right?  I once had to shovel half of the University of Iowa College of Law's faculty parking lot just to go home. There are also [traction mats](https://www.amazon.com/gp/product/B00S0CZZD2/) that you can try keeping the car to stick under your wheels to get that first bit of grip and then momentum to get out of a snowdrift.  One of my midwestern friends claims that "a big piece of cardboard" can do the trick too.
+
+- Midwestern Girlfriend adds: a bag of clay kitty litter. Shovel as much snow as possible and then put this stuff under your tires and apparently can give you some (badly needed) traction to get out of a snow mess. 
 
 Canadian friend again:
 
