@@ -312,7 +312,7 @@ There's long underwear for your top half and long underwear for your bottom half
 
 For your top half, if you have a decent jacket and a sweater, you won't need long underwear to keep warm. But you will still need it, especially if you're actually moving outdoors.  The reason is that sufficient clothing to keep you from freezing to death when you stand still will also make you sweat like a warthog on cocaine the moment you move, and then you'll end up with your clothes soaked.  (Native midwesterners claim that there's some magical formula of clothing that will prevent this. They are lying.) For example, I have a 25-minute walk from home to the office; there is no clothing that will keep me at a livable temperature for the start of the walk that will not make me feel like I'm in a sauna by the end.  Hence, you buy a long-sleeved undershirt that advertises "moisture wicking."  Somehow, by some bizarre science, this sort of thing, which sounds like advertising bullshit, more or less actually works (or at least the "Heattech" ones I buy seem to work.) to keep you semi-dry. This is especially important if you're wearing a dress shirt and you don't want to look like a mess at your destination (cough cough lawyers).
 
-Midwestern Girlfriend adds: "Cuddle duds are good long underwear that can be acquired at Costco."
+Midwestern ex adds: "Cuddle duds are good long underwear that can be acquired at Costco."
 
 ### Gloves
 
@@ -535,7 +535,7 @@ From a Canadian friend:
 
 You have a shovel in the car, right?  I once had to shovel half of the University of Iowa College of Law's faculty parking lot just to go home. There are also [traction mats](https://www.amazon.com/gp/product/B00S0CZZD2/) that you can try keeping the car to stick under your wheels to get that first bit of grip and then momentum to get out of a snowdrift.  One of my midwestern friends claims that "a big piece of cardboard" can do the trick too.
 
-- Midwestern Girlfriend adds: a bag of clay kitty litter. Shovel as much snow as possible and then put this stuff under your tires and apparently can give you some (badly needed) traction to get out of a snow mess. 
+- Midwestern ex adds: a bag of clay kitty litter. Shovel as much snow as possible and then put this stuff under your tires and apparently can give you some (badly needed) traction to get out of a snow mess. 
 
 Canadian friend again:
 
